@@ -10,3 +10,7 @@
 数据可视化。通过echarts对书籍类型分布情况绘制了柱状图，然后又用wordcloud完成了对书籍简介词频分析和图像的制作，同时进行了展示。
 display:
 ![image](https://github.com/123miaomiao/qidian_spider/blob/main/img/img1.png)
+![image](https://github.com/123miaomiao/qidian_spider/blob/main/img/img2.png)
+![image](https://github.com/123miaomiao/qidian_spider/blob/main/img/img3.png)
+![image](https://github.com/123miaomiao/qidian_spider/blob/main/img/img4.png)
+![image](https://github.com/123miaomiao/qidian_spider/blob/main/img/img5.png)
