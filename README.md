@@ -8,3 +8,5 @@
 （3）数据存储。将拿到的数据保存在了Excel文件中同时也利用sqlite3库将相关的数据保存在了数据库中，以便于之后数据的利用。
 （4）数据分析。利用flask框架构造了一个本地的网站，再次利用sqlite3操作数据库进行数据分析并且在网页上进行了展示。
 数据可视化。通过echarts对书籍类型分布情况绘制了柱状图，然后又用wordcloud完成了对书籍简介词频分析和图像的制作，同时进行了展示。
+display:
+![image](https://github.com/123miaomiao/qidian_spider/blob/main/img/img1.png)
